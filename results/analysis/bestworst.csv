@@ -1,0 +1,25 @@
+"Dataset","Tipo","Resultado","Algoritmo de seleção de atributos","Número de atributos selecionados","Método de Balanceamento","Classificador","Diferença % para pior","Diferença % para 1º Quartil","Diferença % para Mediana","Diferença % para Média","Diferença % para 3º Quartil"
+"BLCA.mirnaseq","Melhor resultado",0.9277,"SDAE",100,"SMOTE","CNN",104.4634,32.55,17.4,23.2141,10.4941
+"BLCA.mirnaseq","Pior resultado",0.2911,"FCBF",50,"NearMiss","CNN","-","-","-","-","-"
+"BLCA.rnaseqv2","Melhor resultado",0.951,"ReliefF",10,"SMOTE","CNN",143.3213,35.4689,13.852,23.2592,7.8234
+"BLCA.rnaseqv2","Pior resultado",0.157,"FCBF",10,"NearMiss","CNN","-","-","-","-","-"
+"BRCA.mirnaseq","Melhor resultado",0.9806,"ReliefF",50,"SMOTE","MLP",39.4189,20.2111,13.255,13.3135,4.4194
+"BRCA.mirnaseq","Pior resultado",0.6577,"SDAE",50,"SMOTE","DecisionTree","-","-","-","-","-"
+"BRCA.rnaseqv2","Melhor resultado",0.9885,"ReliefF",50,"NearMiss","CNN",84.6242,27.647,16.5982,18.2434,4.9767
+"BRCA.rnaseqv2","Pior resultado",0.4007,"SDAE",10,"NearMiss","DecisionTree","-","-","-","-","-"
+"HNSC.mirnaseq","Melhor resultado",0.966,"ReliefF",100,"SMOTETomek","MLP",59.6774,25.3061,13.9061,16.1125,6.5647
+"HNSC.mirnaseq","Pior resultado",0.522,"FCBF",50,"NearMiss","CNN","-","-","-","-","-"
+"HNSC.rnaseqv2","Melhor resultado",0.9601,"ReliefF",100,"SMOTETomek","MLP",102.8229,20.8015,14.8596,17.2721,5.9637
+"HNSC.rnaseqv2","Pior resultado",0.3081,"FCBF",50,"NearMiss","CNN","-","-","-","-","-"
+"LUAD.mirnaseq","Melhor resultado",0.982,"ReliefF",100,"SMOTETomek","MLP",60.7195,36.5268,11.7749,18.4587,6.5955
+"LUAD.mirnaseq","Pior resultado",0.5246,"FCBF",100,"NearMiss","CNN","-","-","-","-","-"
+"LUAD.rnaseqv2","Melhor resultado",0.9856,"ReliefF",100,"SMOTE","MLP",68.3913,24.6894,5.6869,13.3738,2.019
+"LUAD.rnaseqv2","Pior resultado",0.4833,"FCBF",50,"NearMiss","CNN","-","-","-","-","-"
+"LUSC.mirnaseq","Melhor resultado",0.9684,"ReliefF",100,"SMOTE","MLP",48.4351,25.3403,9.9171,14.2591,4.2392
+"LUSC.mirnaseq","Pior resultado",0.5908,"FCBF",100,"NearMiss","CNN","-","-","-","-","-"
+"LUSC.rnaseqv2","Melhor resultado",0.998,"ReliefF",100,"NearMiss","CNN",67.8835,16.2631,7.3659,11.2592,2.4751
+"LUSC.rnaseqv2","Pior resultado",0.4922,"SDAE",100,"NearMiss","DecisionTree","-","-","-","-","-"
+"THCA.mirnaseq","Melhor resultado",0.9594,"ReliefF",100,"SMOTE","MLP",42.963,19.329,13.4253,13.3604,6.2006
+"THCA.mirnaseq","Pior resultado",0.6201,"FCBF",10,"NearMiss","MLP","-","-","-","-","-"
+"THCA.rnaseqv2","Melhor resultado",0.9642,"ReliefF",100,"SMOTE","MLP",50.4904,17.9352,11.5866,12.7923,4.0851
+"THCA.rnaseqv2","Pior resultado",0.5755,"FCBF",100,"NearMiss","CNN","-","-","-","-","-"

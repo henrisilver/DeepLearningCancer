@@ -1,0 +1,13 @@
+"Dataset","Melhor Algoritmo de seleção de atributos","Mediana Algoritmo de seleção de atributos","Pior Algoritmo de seleção de atributos","Diff Melhor Mediana %","Diff Melhor Pior %","Melhor Número de atributos selecionados","Mediana Número de atributos selecionados","Pior Número de atributos selecionados","Diff Melhor Mediana %","Diff Melhor Pior %","Melhor Método de Balanceamento","Mediana Método de Balanceamento","Pior Método de Balanceamento","Diff Melhor Mediana %","Diff Melhor Pior %","Melhor Classificador","Mediana Classificador","Pior Classificador","Diff Melhor Mediana %","Diff Melhor Pior %"
+"BLCA.mirnaseq","ReliefF","SDAE","FCBF",4.2737,18.1497,10,50,100,0.1819,1.029,"SMOTETomek","SMOTE","NearMiss",1.6818,33.9892,"MLP","CNN","DecisionTree",3.5949,8.003
+"BLCA.rnaseqv2","ReliefF","FCBF","SDAE",15.4684,21.3476,100,50,10,1.4092,4.8788,"SMOTE","SMOTETomek","NearMiss",2.6834,23.1771,"MLP","CNN","DecisionTree",4.6045,12.056
+"BRCA.mirnaseq","ReliefF","SDAE","FCBF",9.3957,19.1961,10,50,100,1.5495,1.6554,"SMOTETomek","SMOTE","NearMiss",0.9221,2.2161,"MLP","CNN","DecisionTree",1.0199,7.6792
+"BRCA.rnaseqv2","ReliefF","SDAE","FCBF",17.9873,27.8227,50,100,10,0.4069,6.1235,"SMOTETomek","SMOTE","NearMiss",0.0859,6.6185,"MLP","CNN","DecisionTree",3.5701,7.7104
+"HNSC.mirnaseq","ReliefF","SDAE","FCBF",8.293,22.6124,10,50,100,1.1251,2.0201,"SMOTE","SMOTETomek","NearMiss",1.4123,7.941,"MLP","DecisionTree","CNN",0.1248,6.6009
+"HNSC.rnaseqv2","ReliefF","SDAE","FCBF",8.7669,27.1352,100,50,10,0.1713,2.8687,"SMOTE","SMOTETomek","NearMiss",2.2348,16.3132,"MLP","DecisionTree","CNN",1.4289,5.4501
+"LUAD.mirnaseq","ReliefF","SDAE","FCBF",8.3974,32.5103,10,100,50,0.4738,0.8268,"SMOTE","SMOTETomek","NearMiss",0.6061,6.7734,"MLP","DecisionTree","CNN",1.3936,2.6895
+"LUAD.rnaseqv2","ReliefF","SDAE","FCBF",8.0569,25.8531,100,50,10,0.029,1.7722,"SMOTE","SMOTETomek","NearMiss",0.0797,9.0182,"MLP","CNN","DecisionTree",3.026,4.108
+"LUSC.mirnaseq","ReliefF","SDAE","FCBF",9.0976,23.3208,100,50,10,0.8745,2.529,"SMOTETomek","SMOTE","NearMiss",1.0772,8.2833,"MLP","DecisionTree","CNN",2.1317,4.7594
+"LUSC.rnaseqv2","ReliefF","SDAE","FCBF",9.9133,13.7892,100,10,50,0.0361,0.6524,"SMOTE","SMOTETomek","NearMiss",1.1185,10.6759,"MLP","CNN","DecisionTree",2.2261,5.7868
+"THCA.mirnaseq","ReliefF","SDAE","FCBF",6.2967,13.3278,100,50,10,0.8295,2.7308,"SMOTETomek","SMOTE","NearMiss",0.8683,5.1301,"MLP","CNN","DecisionTree",1.1681,7.4699
+"THCA.rnaseqv2","ReliefF","SDAE","FCBF",7.8718,19.2751,10,100,50,0.1288,2.1242,"SMOTE","SMOTETomek","NearMiss",0.3401,8.3869,"MLP","DecisionTree","CNN",3.0317,3.5587
