@@ -22,5 +22,5 @@ The datasets used in this project are available [here](https://1drv.ms/f/s!AsMqa
 ### License
 ----
 
-MIT - Please see the file LICENSE
+MIT - Please see the file [LICENSE](https://github.com/henrisilver/DeepLearningCancer/blob/master/LICENSE)
 
