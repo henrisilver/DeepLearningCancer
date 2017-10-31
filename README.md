@@ -9,7 +9,7 @@ The goal of the project was to explore Deep Learning algorithms, using them to a
 ### Structure of the Repository
 
 * [code](https://github.com/henrisilver/DeepLearningCancer/tree/master/code) - All source code used throughout the project is available here
-    * [preprocess](https://github.com/henrisilver/DeepLearningCancer/tree/master/code/preprocess) contains R scripts used to preprocess data
+    * [preprocessing](https://github.com/henrisilver/DeepLearningCancer/tree/master/code/preprocessing) contains R scripts used to preprocess data
     * [experimentation](https://github.com/henrisilver/DeepLearningCancer/tree/master/code/experimentation) contains the main Python code used to perform experiments, setting up the neural networks used in this project
     * [analysis](https://github.com/henrisilver/DeepLearningCancer/tree/master/code/analysis) contains the Python script used to extract information from results and analyze data
 * [results](https://github.com/henrisilver/DeepLearningCancer/tree/master/results) - The output generated from all experiments and from the analysis is contained here
