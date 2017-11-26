@@ -17,6 +17,8 @@ The goal of the project was to explore Deep Learning algorithms, using them to a
 
 The datasets used in this project are available [here](https://1drv.ms/f/s!AsMqaJwMFxgLjGEVKp2LwPy36HZM).
 
+The slide deck used in the project's presentation at University of São Paulo are available [here](https://1drv.ms/p/s!AsMqaJwMFxgLjVeN80VR0GYbRWSk).
+
 
 
 ### License
