@@ -4,7 +4,7 @@
 
 This repository refers to the final project required for obtaining a Bachelor's Degree in Computer Engineering from University of São Paulo (ICMC/EESC - USP).
 
-The goal of the project was to explore Deep Learning algorithms, using them to analyze gene expression data related to cancer diagnosis. Therefore, I used deep neural networks to classify data and evaluate their performance. A Deep Learning model was also used for dimensionality reduction.
+The goal of the project was to explore Deep Learning algorithms, using them to analyze gene expression data related to cancer diagnosis. I used deep neural networks to classify data, building an automated pipeline to run multiple experiments combining data balancing techniques, dimensionality reduction algorithms and classifiers. A Multilayer Perceptron and a Convolutional Neural Network were use for classification; a Stacked Denoising Autoencoder was used for dimensionality reduction.
 
 ### Structure of the Repository
 
@@ -16,6 +16,8 @@ The goal of the project was to explore Deep Learning algorithms, using them to a
 * [dissertation](https://github.com/henrisilver/DeepLearningCancer/tree/master/dissertation) - The dissertation I wrote can be accessed in here
 
 The datasets used in this project are available [here](https://1drv.ms/f/s!AsMqaJwMFxgLjGEVKp2LwPy36HZM).
+
+The slide deck used in the project's presentation at University of São Paulo are available [here](https://1drv.ms/p/s!AsMqaJwMFxgLjVeN80VR0GYbRWSk).
 
 
 
